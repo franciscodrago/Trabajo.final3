@@ -1,0 +1,124 @@
+@charset "UTF-8";
+/*VARIABLES*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  background-color: white; }
+
+header .collapse .navbar-nav .nav-link {
+  list-style: none;
+  display: inline-block;
+  background-color: #222222;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  margin: 0 11px 0 11px;
+  transition: all 0.2s ease-in-out; }
+
+header .logo {
+  height: 90px;
+  width: 90px; }
+
+header .bottom {
+  background-color: white;
+  color: whitesmoke; }
+
+header:hover {
+  border-radius: 50%; }
+
+.carousel {
+  padding: 10px 30px 10px 30px; }
+
+.contacto {
+  margin: 20px; }
+
+.enviar {
+  margin: 5px;
+  padding: 0.5px;
+  background-color: black; }
+
+.footer-flex div {
+  display: flex;
+  justify-content: center; }
+  .footer-flex div .redes1 {
+    margin: 10px 7px 15px 7px; }
+
+.boton {
+  background-color: #575757;
+  text-align: center;
+  color: black;
+  border-radius: 20px;
+  border: 1px solid black; }
+  .boton:hover {
+    filter: opacity(85%); }
+
+.letraPequeña {
+  font-size: 1rem;
+  font-weight: 100; }
+
+.letreaMediana {
+  font-size: 2rem;
+  font-weight: 500; }
+
+.letraGrande {
+  font-size: 3rem;
+  font-weight: 700; }
+
+.botonFacebook {
+  color: #1190f1; }
+
+.botonInstagram {
+  color: #f11163; }
+
+.botonWhatsapp {
+  color: #21d31e; }
+
+.col -1 {
+  width: 10%; }
+
+.col -2 {
+  width: 20%; }
+
+.col -3 {
+  width: 30%; }
+
+.col -4 {
+  width: 40%; }
+
+.col -5 {
+  width: 50%; }
+
+.col -6 {
+  width: 60%; }
+
+.col -7 {
+  width: 70%; }
+
+.col -8 {
+  width: 80%; }
+
+.col -9 {
+  width: 90%; }
+
+.col -10 {
+  width: 100%; }
+
+.green {
+  color: green; }
+
+.yellow {
+  color: yellow; }
+
+.black {
+  color: black; }
+
+.botonFacebook {
+  color: #1190f1; }
+
+.botonInstagram {
+  color: #f11163; }
+
+.botonWhatsapp {
+  color: #21d31e; }

@@ -1,0 +1,20 @@
+@mixin fonSide($size, $weight) {
+
+    font-size: $size;
+    font-weight: $weight;
+
+    
+}
+
+.letraPequeña {
+@include fonSide(1rem, 100)
+}
+
+.letreaMediana {
+    @include fonSide(2rem, 500)
+}
+
+.letraGrande {
+    @include fonSide(3rem, 700)
+}
+

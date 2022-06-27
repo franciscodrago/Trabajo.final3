@@ -1,0 +1,40 @@
+header {
+    .collapse .navbar-nav .nav-link {
+        list-style: none;
+        display: inline-block;
+        background-color:$colornav;
+        padding: 0.5rem;
+        border-radius: 1rem;
+        margin: 0 11px 0 11px ;
+    transition: all 0.2s ease-in-out;
+        
+    }
+    
+    
+    .logo{
+      height: 90px;
+      width: 90px;
+    }
+    .bottom {
+        background-color: white;
+        color: whitesmoke;
+    }
+     &:hover {
+        border-radius: 50%;
+    
+    }
+}
+.carousel {
+    padding: 10px 30px 10px 30px;
+}
+
+.contacto {
+    margin: 20px
+}
+
+.enviar {
+    margin: 5px;
+    padding: 0.5px;
+    background-color: black;
+    
+}
